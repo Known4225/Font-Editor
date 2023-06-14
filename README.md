@@ -10,7 +10,7 @@ and you can press l to load things and s to save, you must hit s before working 
 
 You can also press l and load a character as an onion skin by attaching the number 1 2 or 3 at the end of it (like type "a1" into the load bar)
 
-The font is based on Roberto
+The font is based on Roboto
 
 It includes characters from a few different alphabets
 
