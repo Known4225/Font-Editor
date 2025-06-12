@@ -14,4 +14,5 @@ The font is based on Roboto
 
 It includes characters from a few different alphabets
 
-The purpose of the engine is going to be for rendering windows with text that can cut the text in the middle of a character at arbitrary coordinates. But right now that feature is not implemented.
+![image](https://github.com/user-attachments/assets/8a68cfba-8f93-4092-962e-5bdf55016932)
+
